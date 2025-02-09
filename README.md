@@ -121,6 +121,6 @@ curl -X POST http://localhost:3000/identify -H "Content-Type: application/json" 
 
 This project is deployed on the Render.com platform.
 
-**Hosted Endpoint:** [https://fluxkart-identity-reconciliation.onrender.com/identify](https://fluxkart-identity-reconciliation.onrender.com/identify)
+**Hosted Endpoint:** [https://fluxkart-identity-reconciliation-1.onrender.com/identify](https://fluxkart-identity-reconciliation-1.onrender.com/identify)
 
 
