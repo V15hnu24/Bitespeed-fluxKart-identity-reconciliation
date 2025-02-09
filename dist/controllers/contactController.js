@@ -36,7 +36,7 @@ const insertSecondaryContact = (client, phoneNumber, email, primaryContactId) =>
     const insertContactQuery = `
     INSERT INTO Contact (phonenumber, email, linkedid, linkprecedence)
     VALUES ($1, $2, $3, 'secondary')
-    RETURNING id, createat
+    RETURNING id, createdat
   `;
     yield client.query(insertContactQuery, [
         phoneNumber,
