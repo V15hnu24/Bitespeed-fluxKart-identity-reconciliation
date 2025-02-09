@@ -42,8 +42,8 @@ fluxkart/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/my-project.git
-   cd my-project
+   git clone https://github.com/V15hnu24/Bitespeed-fluxKart-identity-reconciliation.git
+   cd Bitespeed-fluxKart-identity-reconciliation
    ```
 
 2. Install dependencies:
